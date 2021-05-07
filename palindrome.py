@@ -1,6 +1,7 @@
 #Dylan Dennison SPl python palindrome program
 #Using procedural programming
 
+#For comparison points between the languages please read the readme file in the repository.
 
 print("Welcome to Dylan's Palindrome program")  
 inputString = input("Please input a word(lower case) to be checked: ") #ask for string input
