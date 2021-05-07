@@ -1,6 +1,8 @@
 //Dylan Dennison SPL C++ palindrome program 
 //using object oriented programming
 
+//For comparison points between the languages please read the readme file in the repository.
+
 #include <iostream>
 #include <string>
 
